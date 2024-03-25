@@ -1,59 +1,244 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T09:47:34.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JRb93udYH8Xlu_UARQy4" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T09:49:14.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="63Y-Do6kFEwaDuSgFt8k" version="24.1.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1259" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="100" height="300" as="geometry" />
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--2" value="e-Justice portal (BORIS)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="175" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-3" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="70" as="sourcePoint" />
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--4" value="Korisnik&lt;br&gt;(web preglednik)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="175" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--6" value="EU Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="175" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--8" value="eIDAS čvor&lt;br&gt;NIAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="175" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;jumpSize=10;jumpStyle=arc;strokeWidth=1.5;strokeColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1020" as="sourcePoint" />
+            <mxPoint x="399.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="220" y="40" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
-          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-7" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="130" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="180" y="120" />
-            </Array>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1.5;strokeColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1020" as="sourcePoint" />
+            <mxPoint x="679.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="195" y="205" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="280" />
-            </Array>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1.5;strokeColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="1020" as="sourcePoint" />
+            <mxPoint x="959.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="callback" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="160" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="190" y="160" />
-            </Array>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1.5;strokeColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="1020" as="sourcePoint" />
+            <mxPoint x="1239.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-4" target="aM9ryv3xv72pqoxQDRHE-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="235" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="230" />
-            </Array>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="260" as="sourcePoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. Korisnik klikne na gumb &#39;Sign in&#39; [http zahtjev]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="960" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2. Korisnik je preusmjeren na EU Login [http preusmjeravanje]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="280" width="340" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="340" as="sourcePoint" />
+            <mxPoint x="680" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2.1. EU Login prikazuje korisniku popis metoda verifikacije [http odgovor]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="726.25" y="319" width="195" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="379" as="sourcePoint" />
+            <mxPoint x="960" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2.2. Korisnik odabire &#39;eID Authentication&#39; [http zahtjev]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="360" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="419" as="sourcePoint" />
+            <mxPoint x="680" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2.3. EU Login prikazuje korisniku popis država [http odgovor]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="746.25" y="390" width="153.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="459" as="sourcePoint" />
+            <mxPoint x="960" y="459" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2.4. Korisnik odabire &#39;Croatia&#39; [http zahtjev]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="440" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="500" as="sourcePoint" />
+            <mxPoint x="1240" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3. Korisnik je preusmjeren na nacionalni eIDAS čvor (NIAS) [http preusmjeravanje + SAMLRequest #1]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="460" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="540" as="sourcePoint" />
+            <mxPoint x="680" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3.1. NIAS korisniku prikazuje popis vjerodajnica [http odgovor]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="775" y="520" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="580" as="sourcePoint" />
+            <mxPoint x="1240" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;3.2. Korisnik odabire &#39;eOsobna iskaznica&#39; [http zahtjev]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="825" y="560" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--32" value="Autentifikacijski poslužitelj AKD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="175" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1.5;strokeColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="1030" as="sourcePoint" />
+            <mxPoint x="1519.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="620" as="sourcePoint" />
+            <mxPoint x="1520" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--35" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4. NIAS šalje autentifikacijskom poslužitelju zahtjev za autentifikacijom [http preusmjeravanje + SAMLRequest #2]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="580" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="660" as="sourcePoint" />
+            <mxPoint x="680" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4.1. AKD prikazuje korisniku sučelje za identifikaciju elektroničkom osobnom iskaznicom [http odgovor]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="640" width="550" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="700" as="sourcePoint" />
+            <mxPoint x="1520" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--39" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4.2. Korisnik potvrđuje identifikaciju sa svojim identifikacijskim certifikatom [http zahtjev]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="680" width="490" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="740" as="sourcePoint" />
+            <mxPoint x="1240" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;4.3. AKD šalje NIAS-u odgovor [http preusmjeravanje + SAMLResponse #2]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="710" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--43" value="Autorizacijski web servis e-Ovlaštenja" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1745" y="175" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--44" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=1.5;strokeColor=#808080;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800" y="1020" as="sourcePoint" />
+            <mxPoint x="1799.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="780" as="sourcePoint" />
+            <mxPoint x="1800" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;5. NIAS provjerava korisnički račun autentificiranog korisnika i traži autorizacijske podatke [http rest zahtjev]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1277.5" y="760" width="485" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1800" y="860" as="sourcePoint" />
+            <mxPoint x="1240" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;7. Autorizacijski web servis vraća autorizacijske uređene parove za autentificiranog korisnika [http rest odgovor]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="840" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--49" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;6. Autorizacijski web servis pruža autorizacijske podatke&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="810" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="900" as="sourcePoint" />
+            <mxPoint x="960" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;8. NIAS EU Login usluzi vraća autentifikacijske i autorizacijske podatke[http preusmjeravanje + SAMLReponse #1]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="860" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="957.5" y="940" as="sourcePoint" />
+            <mxPoint x="402.5" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;9. Korisnik je preusmjeren na e-Justice portal [http preusmjeravanje]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="920" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;10. e-Justice portal čuva korisničku ulogu u sesiji web preglednika&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="950" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3eJGVzJpjYLF1nv2MW--55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="980" as="sourcePoint" />
+            <mxPoint x="680" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
